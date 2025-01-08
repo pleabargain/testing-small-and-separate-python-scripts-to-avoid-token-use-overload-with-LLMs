@@ -360,3 +360,9 @@ streamlit.errors.StreamlitAPIException: `st.session_state.user_input` cannot be 
 2025-01-08 15:20:48,425 - streamlit_app - DEBUG - Retrieved 5 previous conversations for context
 2025-01-08 15:20:59,342 - streamlit_app - INFO - Successfully saved conversation
 2025-01-08 15:20:59,342 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:23:09,173 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:23:09,437 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:23:09,438 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 15:23:18,670 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:23:18,672 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:23:18,672 - streamlit_app - DEBUG - Initialized empty chat history in session state

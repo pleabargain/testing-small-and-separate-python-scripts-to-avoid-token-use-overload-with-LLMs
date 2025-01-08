@@ -6,6 +6,8 @@ https://github.com/pleabargain/testing-small-and-separate-python-scripts-to-avoi
 
 A Streamlit-based chat interface that interacts with a local Ollama LLM server. This project demonstrates modular Python development with comprehensive logging and error handling.
 
+It'll hold the last 5 conversations in memory.
+
 # this is a local instance of the streamlit app
 I am using the llama3.2 model
 

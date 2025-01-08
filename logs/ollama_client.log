@@ -145,3 +145,9 @@ ollama._types.ResponseError: model "llama2" not found, try pulling it first
 2025-01-08 15:20:48,420 - ollama_client - INFO - Ollama server is running and accessible
 2025-01-08 15:20:48,425 - ollama_client - DEBUG - Generating streaming response for prompt: what have we talked about?...
 2025-01-08 15:20:59,338 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:23:09,173 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:23:09,438 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:23:09,448 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:23:18,670 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:23:18,673 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:23:18,683 - ollama_client - INFO - Ollama server is running and accessible

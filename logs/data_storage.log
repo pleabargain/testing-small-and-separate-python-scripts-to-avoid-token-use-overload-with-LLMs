@@ -85,3 +85,5 @@
 2025-01-08 15:20:59,339 - data_storage - DEBUG - Attempting to save new conversation
 2025-01-08 15:20:59,340 - data_storage - DEBUG - Successfully loaded existing conversation file
 2025-01-08 15:20:59,342 - data_storage - INFO - Successfully saved conversation with ID: d1465685-ae51-4e1b-a900-f34a6a38defe
+2025-01-08 15:23:09,173 - data_storage - DEBUG - Initialized ConversationStorage with filename: conversations.json
+2025-01-08 15:23:18,671 - data_storage - DEBUG - Initialized ConversationStorage with filename: conversations.json
