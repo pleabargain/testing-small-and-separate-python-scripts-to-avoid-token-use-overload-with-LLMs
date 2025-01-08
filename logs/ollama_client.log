@@ -1,0 +1,108 @@
+2025-01-08 14:22:38,322 - ollama_client - DEBUG - Initialized OllamaClient with base_url: http://localhost:11434, model: llama3.2
+2025-01-08 14:22:38,690 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:22:40,867 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:22:49,285 - ollama_client - DEBUG - Initialized OllamaClient with base_url: http://localhost:11434, model: llama3.2
+2025-01-08 14:22:49,297 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:22:51,350 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:36:54,927 - ollama_client - DEBUG - Initialized OllamaClient with base_url: http://localhost:11434, model: llama3.2
+2025-01-08 14:36:55,275 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:36:57,315 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:37:01,349 - ollama_client - DEBUG - Initialized OllamaClient with base_url: http://localhost:11434, model: llama3.2
+2025-01-08 14:37:01,350 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:37:03,405 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:37:23,747 - ollama_client - DEBUG - Initialized OllamaClient with base_url: http://localhost:11434, model: llama3.2
+2025-01-08 14:37:23,751 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:37:25,809 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:46:11,214 - ollama_client - DEBUG - Initialized OllamaClient with model: llama2
+2025-01-08 14:46:11,545 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:46:11,677 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:46:15,767 - ollama_client - DEBUG - Initialized OllamaClient with model: llama2
+2025-01-08 14:46:15,770 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:46:15,793 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:46:19,147 - ollama_client - DEBUG - Initialized OllamaClient with model: llama2
+2025-01-08 14:46:19,149 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:46:19,166 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:46:22,022 - ollama_client - DEBUG - Generating streaming response for prompt: hey...
+2025-01-08 14:46:22,032 - ollama_client - ERROR - Error during streaming: model "llama2" not found, try pulling it first
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\ollama_client.py", line 23, in generate_response_stream
+    for chunk in stream:
+                 ^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\ollama\_client.py", line 167, in inner
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: model "llama2" not found, try pulling it first
+2025-01-08 14:47:32,822 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:32,822 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:32,827 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:32,827 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:32,849 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:32,849 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:37,833 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:37,833 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:37,835 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:37,835 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:37,848 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:37,848 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:42,149 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:42,149 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:42,153 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:42,153 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:42,168 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:42,168 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:42,176 - ollama_client - DEBUG - Generating streaming response for prompt: hey again...
+2025-01-08 14:47:42,176 - ollama_client - DEBUG - Generating streaming response for prompt: hey again...
+2025-01-08 14:47:45,019 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 14:47:45,019 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 14:47:55,995 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:55,995 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:47:55,998 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:55,998 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:47:56,011 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:47:56,011 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:50:49,777 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:50:50,076 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:50:50,087 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:50:56,593 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:50:56,594 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:50:56,608 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:51:01,040 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:51:01,045 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:51:01,062 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:51:01,067 - ollama_client - DEBUG - Generating streaming response for prompt: hey
+...
+2025-01-08 14:51:02,213 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 14:51:12,155 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:51:12,158 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:51:12,171 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:51:15,982 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:51:15,985 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:51:16,001 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:51:16,008 - ollama_client - DEBUG - Generating streaming response for prompt: tell me about customer service...
+2025-01-08 14:51:39,230 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 14:52:07,678 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:52:07,698 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:52:07,722 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:57:28,019 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:57:28,328 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:57:28,339 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 14:57:42,408 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 14:57:42,411 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 14:57:42,424 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:05:13,736 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:05:13,993 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:05:14,004 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:05:18,197 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:05:18,198 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:05:18,210 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:05:18,213 - ollama_client - DEBUG - Generating streaming response for prompt: hey...
+2025-01-08 15:05:20,349 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:05:31,434 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:05:31,435 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:05:31,448 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:05:31,451 - ollama_client - DEBUG - Generating streaming response for prompt: what's up in little bangkok?...
+2025-01-08 15:05:36,685 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:05:57,034 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:05:57,036 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:05:57,046 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:05:57,050 - ollama_client - DEBUG - Generating streaming response for prompt: Can you tell me the weather in bangkok?...
+2025-01-08 15:06:07,101 - ollama_client - INFO - Successfully completed streaming response from Ollama

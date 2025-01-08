@@ -1,0 +1,319 @@
+2025-01-08 14:22:38,322 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:22:38,686 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:22:38,689 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:22:49,284 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:22:49,284 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:22:49,285 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:22:49,285 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:36:54,927 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:36:55,274 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:36:55,274 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:37:01,348 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:37:01,348 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:37:01,350 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:37:01,350 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:37:23,746 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:37:23,746 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:37:23,746 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:37:23,749 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:37:23,749 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:37:23,749 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:11,214 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:11,544 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:11,544 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:46:15,764 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:15,764 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:15,768 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:15,768 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:19,146 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:19,146 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:19,146 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:46:19,149 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:19,149 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:19,149 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:46:19,169 - streamlit_app - DEBUG - Processing user input: hey...
+2025-01-08 14:46:19,169 - streamlit_app - DEBUG - Processing user input: hey...
+2025-01-08 14:46:19,169 - streamlit_app - DEBUG - Processing user input: hey...
+2025-01-08 14:46:22,056 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:46:22,056 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:46:22,056 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:46:22,057 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:46:22,057 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:46:22,057 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:32,820 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:32,820 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:32,820 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:32,820 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:32,823 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:32,823 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:32,823 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:32,823 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:32,826 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:47:32,826 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:47:32,826 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:47:32,826 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:47:37,831 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:37,831 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:37,831 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:37,831 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:37,831 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:37,834 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:37,834 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:37,834 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:37,834 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:37,834 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,148 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,152 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:42,172 - streamlit_app - DEBUG - Processing user input: hey again...
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,022 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:45,023 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,993 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:55,996 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:47:56,013 - streamlit_app - ERROR - Unexpected error in Streamlit app: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.text_area(f"You:", chat["user"], height=50, disabled=True, key=f"user_{i}")
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\elements\widgets\text_widgets.py", line 508, in text_area
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: Invalid height 50px for `st.text_area` - must be at least 68 pixels.
+2025-01-08 14:50:49,776 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:50:50,075 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:50:50,075 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:50:56,592 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:50:56,592 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:50:56,594 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:50:56,594 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:01,038 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:01,038 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:01,038 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:01,043 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:01,043 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:01,043 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:01,065 - streamlit_app - DEBUG - Processing user input: hey
+...
+2025-01-08 14:51:01,065 - streamlit_app - DEBUG - Processing user input: hey
+...
+2025-01-08 14:51:01,065 - streamlit_app - DEBUG - Processing user input: hey
+...
+2025-01-08 14:51:02,217 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:02,217 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:02,217 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:02,218 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:02,218 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:02,218 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:12,154 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:12,154 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:12,154 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:12,154 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:12,156 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:12,156 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:12,156 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:12,156 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:15,981 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:15,981 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:15,981 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:15,981 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:15,981 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:51:15,984 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:15,984 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:15,984 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:15,984 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:15,984 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:51:16,003 - streamlit_app - DEBUG - Processing user input: tell me about customer service...
+2025-01-08 14:51:16,003 - streamlit_app - DEBUG - Processing user input: tell me about customer service...
+2025-01-08 14:51:16,003 - streamlit_app - DEBUG - Processing user input: tell me about customer service...
+2025-01-08 14:51:16,003 - streamlit_app - DEBUG - Processing user input: tell me about customer service...
+2025-01-08 14:51:16,003 - streamlit_app - DEBUG - Processing user input: tell me about customer service...
+2025-01-08 14:51:39,232 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:39,232 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:39,232 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:39,232 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:39,232 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 14:51:39,234 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:39,234 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:39,234 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:39,234 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:51:39,234 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,666 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:52:07,683 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:57:28,018 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:57:28,325 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:57:28,327 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 14:57:42,407 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:57:42,407 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 14:57:42,410 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:57:42,410 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 14:57:42,426 - streamlit_app - ERROR - Unexpected error in Streamlit app: `st.session_state.user_input` cannot be modified after the widget with key `user_input` is instantiated.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.session_state.user_input = ""  # Clear the input field
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state_proxy.py", line 135, in __setattr__
+    self[key] = value
+    ~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state_proxy.py", line 113, in __setitem__
+    get_session_state()[key] = value
+    ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\safe_session_state.py", line 99, in __setitem__
+    self._state[key] = value
+    ~~~~~~~~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state.py", line 516, in __setitem__
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: `st.session_state.user_input` cannot be modified after the widget with key `user_input` is instantiated.
+2025-01-08 14:57:42,426 - streamlit_app - ERROR - Unexpected error in Streamlit app: `st.session_state.user_input` cannot be modified after the widget with key `user_input` is instantiated.
+Traceback (most recent call last):
+  File "C:\Users\denni\Documents\streamlit test\app.py", line 71, in main
+    st.session_state.user_input = ""  # Clear the input field
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state_proxy.py", line 135, in __setattr__
+    self[key] = value
+    ~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\metrics_util.py", line 409, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state_proxy.py", line 113, in __setitem__
+    get_session_state()[key] = value
+    ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\safe_session_state.py", line 99, in __setitem__
+    self._state[key] = value
+    ~~~~~~~~~~~^^^^^
+  File "C:\Users\denni\AppData\Roaming\Python\Python312\site-packages\streamlit\runtime\state\session_state.py", line 516, in __setitem__
+    raise StreamlitAPIException(
+streamlit.errors.StreamlitAPIException: `st.session_state.user_input` cannot be modified after the widget with key `user_input` is instantiated.
+2025-01-08 15:05:13,736 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:05:13,991 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:05:13,992 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 15:05:18,195 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:05:18,198 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:05:18,211 - streamlit_app - DEBUG - Processing user input: hey...
+2025-01-08 15:05:20,352 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:05:20,352 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:05:31,433 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:05:31,435 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:05:31,450 - streamlit_app - DEBUG - Processing user input: what's up in little bangkok?...
+2025-01-08 15:05:36,689 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:05:36,689 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:05:57,034 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:05:57,035 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:05:57,048 - streamlit_app - DEBUG - Processing user input: Can you tell me the weather in bangkok?...
+2025-01-08 15:06:07,104 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:06:07,104 - streamlit_app - DEBUG - Updated chat history in session state
