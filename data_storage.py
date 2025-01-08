@@ -41,14 +41,20 @@ class ConversationStorage:
             logger.error(f"Error saving conversation: {str(e)}", exc_info=True)
             return False
 
-    def get_conversations(self):
-        """Retrieve all conversations from the JSON file"""
+    def get_conversations(self, limit=None):
+        """Retrieve conversations from the JSON file
+        Args:
+            limit (int, optional): Number of most recent conversations to return
+        """
         try:
             logger.debug("Attempting to retrieve conversations")
             with open(self.filename, 'r') as f:
                 data = json.load(f)
             logger.info("Successfully retrieved conversations")
-            return data.get("conversations", [])
+            conversations = data.get("conversations", [])
+            if limit:
+                return conversations[-limit:]
+            return conversations
         except FileNotFoundError:
             logger.warning("No conversation file found")
             return []

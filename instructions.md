@@ -28,6 +28,8 @@ the input is saved with a timestamp in a JSON file
 the input is passed to the ollama function that returns a response in the streamlit app
 the ollama response is streamed to the user in the streamlit app and saved with a timestamp in a JSON file with the input
 
+the last five conversation in (conversations.json) is passed to the ollama prompt so that Ollama can use the context of the previous conversations to generate a response 
+
 create a JSON schema for the input and output from user and the ollama response
 
 

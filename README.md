@@ -1,5 +1,9 @@
 # Streamlit Ollama Chat Interface
 
+#repo
+https://github.com/pleabargain/testing-small-and-separate-python-scripts-to-avoid-token-use-overload-with-LLMs
+
+
 A Streamlit-based chat interface that interacts with a local Ollama LLM server. This project demonstrates modular Python development with comprehensive logging and error handling.
 
 # this is a local instance of the streamlit app
@@ -7,6 +11,7 @@ I am using the llama3.2 model
 
 I'm using the python-json-logger package to log the messages to a file.
 
+#goal
 I'm trying to get the number of files that need to be edited when working with cline to as few as possible. This might help in keeping the code clean and easy to maintain. As well, to help the coding assistants from spiraling into crazy town.
 
 

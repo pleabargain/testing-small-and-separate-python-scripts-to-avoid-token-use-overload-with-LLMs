@@ -85,8 +85,12 @@ def main():
                     message_placeholder = st.empty()
                     full_response = ""
                     
-                    # Stream the response
-                    for chunk in ollama_client.generate_response_stream(input_text):
+                    # Get last 5 conversations for context
+                    conversation_history = storage.get_conversations(limit=5)
+                    logger.debug(f"Retrieved {len(conversation_history)} previous conversations for context")
+                    
+                    # Stream the response with conversation history
+                    for chunk in ollama_client.generate_response_stream(input_text, conversation_history):
                         full_response += chunk
                         message_placeholder.markdown(full_response + "▌")
                     

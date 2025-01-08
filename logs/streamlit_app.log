@@ -317,3 +317,46 @@ streamlit.errors.StreamlitAPIException: `st.session_state.user_input` cannot be 
 2025-01-08 15:05:57,048 - streamlit_app - DEBUG - Processing user input: Can you tell me the weather in bangkok?...
 2025-01-08 15:06:07,104 - streamlit_app - INFO - Successfully saved conversation
 2025-01-08 15:06:07,104 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:11:45,490 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:11:45,758 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:11:45,758 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 15:11:51,119 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:11:51,121 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:11:51,121 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 15:12:01,281 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:12:01,284 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:12:01,298 - streamlit_app - DEBUG - Processing user input: what do you know about me?...
+2025-01-08 15:12:11,810 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:12:11,810 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:12:24,970 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:12:24,972 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:12:24,985 - streamlit_app - DEBUG - Processing user input: did I ask about bangkok?...
+2025-01-08 15:12:26,632 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:12:26,632 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:19:25,673 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:19:25,934 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:19:25,934 - streamlit_app - DEBUG - Initialized empty chat history in session state
+2025-01-08 15:19:34,985 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:19:34,987 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:19:35,000 - streamlit_app - DEBUG - Processing user input: what have we talked about...
+2025-01-08 15:19:35,002 - streamlit_app - DEBUG - Retrieved 5 previous conversations for context
+2025-01-08 15:19:45,965 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:19:45,965 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:20:03,983 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:20:03,985 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:20:03,997 - streamlit_app - DEBUG - Processing user input: are you duplicating data?...
+2025-01-08 15:20:04,001 - streamlit_app - DEBUG - Retrieved 5 previous conversations for context
+2025-01-08 15:20:14,185 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:20:14,186 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:20:25,807 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:20:25,808 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:20:25,820 - streamlit_app - DEBUG - Processing user input: what is your purpose?...
+2025-01-08 15:20:25,822 - streamlit_app - DEBUG - Retrieved 5 previous conversations for context
+2025-01-08 15:20:40,732 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:20:40,732 - streamlit_app - DEBUG - Updated chat history in session state
+2025-01-08 15:20:48,407 - streamlit_app - DEBUG - Initializing OllamaClient and ConversationStorage
+2025-01-08 15:20:48,409 - streamlit_app - DEBUG - Streamlit app started
+2025-01-08 15:20:48,422 - streamlit_app - DEBUG - Processing user input: what have we talked about?...
+2025-01-08 15:20:48,425 - streamlit_app - DEBUG - Retrieved 5 previous conversations for context
+2025-01-08 15:20:59,342 - streamlit_app - INFO - Successfully saved conversation
+2025-01-08 15:20:59,342 - streamlit_app - DEBUG - Updated chat history in session state

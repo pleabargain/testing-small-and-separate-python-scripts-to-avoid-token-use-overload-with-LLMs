@@ -106,3 +106,42 @@ ollama._types.ResponseError: model "llama2" not found, try pulling it first
 2025-01-08 15:05:57,046 - ollama_client - INFO - Ollama server is running and accessible
 2025-01-08 15:05:57,050 - ollama_client - DEBUG - Generating streaming response for prompt: Can you tell me the weather in bangkok?...
 2025-01-08 15:06:07,101 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:11:45,491 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:11:45,758 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:11:45,770 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:11:51,120 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:11:51,122 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:11:51,134 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:12:01,281 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:12:01,284 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:12:01,296 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:12:01,300 - ollama_client - DEBUG - Generating streaming response for prompt: what do you know about me?...
+2025-01-08 15:12:11,805 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:12:24,970 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:12:24,972 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:12:24,984 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:12:24,986 - ollama_client - DEBUG - Generating streaming response for prompt: did I ask about bangkok?...
+2025-01-08 15:12:26,629 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:19:25,673 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:19:25,934 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:19:25,945 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:19:34,985 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:19:34,987 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:19:34,999 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:19:35,002 - ollama_client - DEBUG - Generating streaming response for prompt: what have we talked about...
+2025-01-08 15:19:45,962 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:20:03,983 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:20:03,985 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:20:03,997 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:20:04,001 - ollama_client - DEBUG - Generating streaming response for prompt: are you duplicating data?...
+2025-01-08 15:20:14,182 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:20:25,807 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:20:25,808 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:20:25,818 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:20:25,822 - ollama_client - DEBUG - Generating streaming response for prompt: what is your purpose?...
+2025-01-08 15:20:40,730 - ollama_client - INFO - Successfully completed streaming response from Ollama
+2025-01-08 15:20:48,408 - ollama_client - DEBUG - Initialized OllamaClient with model: llama3.2
+2025-01-08 15:20:48,409 - ollama_client - DEBUG - Checking Ollama server status
+2025-01-08 15:20:48,420 - ollama_client - INFO - Ollama server is running and accessible
+2025-01-08 15:20:48,425 - ollama_client - DEBUG - Generating streaming response for prompt: what have we talked about?...
+2025-01-08 15:20:59,338 - ollama_client - INFO - Successfully completed streaming response from Ollama
